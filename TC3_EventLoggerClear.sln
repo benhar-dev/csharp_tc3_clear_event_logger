@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC3_EventLoggerClear", "TC3_EventLoggerClear.csproj", "{A96E9DD0-8512-46C5-AA14-D4D6DCC4A3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96E9DD0-8512-46C5-AA14-D4D6DCC4A3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96E9DD0-8512-46C5-AA14-D4D6DCC4A3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96E9DD0-8512-46C5-AA14-D4D6DCC4A3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96E9DD0-8512-46C5-AA14-D4D6DCC4A3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6691441B-CC64-4969-AF3E-A7553D03941B}
+	EndGlobalSection
+EndGlobal
